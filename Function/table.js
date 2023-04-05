@@ -194,7 +194,8 @@ let categories = [
       </tr>
 
     </tbody>
-  </table>`;
+  </table>
+  `;
   });
 
 
